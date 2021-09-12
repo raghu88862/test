@@ -1,3 +1,4 @@
 suresh prcticing  git
 raghu is  woking on  git
 checking for push the code to github is working or not
+After checking with github,it's work fine
